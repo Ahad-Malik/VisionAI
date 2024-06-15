@@ -1,6 +1,6 @@
 # VisionAI: Your Interactive Visual and Conversational Assistant
 
-VisionAI is an advanced interactive assistant that integrates real-time webcam input with powerful AI capabilities to provide intelligent responses based on visual and spoken input. 
+**VisionAI** is an advanced interactive assistant that integrates **real-time** webcam input with powerful AI capabilities to provide intelligent responses based on **visual** and **spoken** input. 
 Whether you're curious about objects in your surroundings, seeking fashion advice for an interview, or engaging in casual conversation, VisionAI leverages cutting-edge technologies to assist you effectively.
 
 ## Features
