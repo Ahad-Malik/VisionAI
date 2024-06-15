@@ -37,7 +37,7 @@ while True:
             print("Analyzing..")
             cv2.destroyAllWindows()
 
-        genai.configure(api_key='AIzaSyCi2LBAixqYAZmMf9TwkH9ArTyJCXoxV04')
+        genai.configure(api_key='YOUR-GEMINI-API-KEY')
 
         image = PIL.Image.open('input.jpg')
         model = genai.GenerativeModel('gemini-1.5-flash',system_instruction="You are my assistant. i'm infront of you asking questions. The images i provide you are what you see with your eyes. Act like its you seeing them in real time, therefore respond accordingly")
